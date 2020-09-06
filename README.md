@@ -1,3 +1,7 @@
+# Você pode acessar esse projeto através desse [link](https://covid19-tracker-taupe.vercel.app/)
+![covid19-tracker](https://user-images.githubusercontent.com/55262061/92337446-31c9a480-f080-11ea-9ab5-c0ea003109ef.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
