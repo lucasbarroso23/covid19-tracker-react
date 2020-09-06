@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(250, 250, 250);
+  background-color: #ffffff;
+  background-image: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
 
 .container {
@@ -7,4 +8,18 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+}
+
+.image {
+  width: 350px;
+  margin-top: 50px;
+}
+
+@media(max-width: 770px) {
+  .container {
+    margin: 0 10%;
+  }
+  .image {
+    width: 100%;
+  }
 }
